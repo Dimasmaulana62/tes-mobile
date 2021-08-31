@@ -1,0 +1,435 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@100;200;300;400;500;600;700;800&display=swap');
+
+body {
+    font-family: 'Poppins', sans-serif;
+    overflow-x: none;
+    height: 4000px;
+}
+
+
+.nav-item {
+    margin-left: 20px;
+    font-size: 14px;
+    color: gray;
+    font-weight: 300px;
+}
+
+.nav-custome {
+margin-left: 20px;
+    font-size: 14px;
+    color: gray;
+    font-weight: 300px;
+}
+
+.active-li-nav {
+    color: #ffc107;
+}
+
+
+.navbar-font-custome {
+    font-size: 20px;
+    font-weight: bold;
+    color: #01414d;
+}
+
+
+/* banner service */
+.background-service {
+    background-image: url('../img/banner/img-banner-software-development.png');
+    height: 660px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+} 
+
+.margin-bottom-sft-dev {
+    margin-bottom: 220px;
+}
+
+.background-service-group {
+    margin-top: -50px;
+    margin-left: 50px;
+}
+
+.img-service-group {
+    margin-left: 100px;
+    margin-top: -100px;
+}
+
+.title-page-service-sft-dev {
+    font-size: 36px;
+    font-weight: bold;
+    color: #000000;
+}
+
+.title-sevice-development {
+font-size: 36px;
+    font-weight: bold;
+    color: #000000;
+}
+
+.title-page-service-sft-dev-span {
+    color: #FFC737;
+}
+
+.description-text-software-dev {
+    font-size: 14px;
+    font-weight: 400px;
+    color: rgba(0, 0, 0, 0.7);
+    margin-top: 30px;
+}
+
+.description-text-software-dev-span {
+    font-weight: 600;
+}
+
+.img-service-about-sft-dev {
+    margin-top: -400px;   
+}
+
+.Rectangle-img-service-sft-dev {
+    margin-top: 10px;
+    margin-left: 25px;
+}
+
+.btn-service-contact {
+    width: 448px;
+    height: 55px; 
+    background-color: #FFB91B; 
+    color: white; 
+    border-radius: 10px;
+    font-size: 18px;
+    font-weight: 500;
+    margin-top: 70px;
+    box-shadow: 0px 2px 6px rgba(0, 0, 0, 0.1);
+}
+
+.btn-service-contact:hover {
+    box-shadow: 0px 2px 6px rgba(0, 0, 0, 0.1);
+    width: 448px;
+    height: 55px; 
+    background-color: #FFB91B; 
+    color: white; 
+    border-radius: 10px;
+    font-size: 18px;
+    font-weight: 500;
+    margin-top: 70px;
+}
+/* close */
+
+
+/* open  */
+.card-Packages {
+    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.15);
+border-radius: 10px;
+border: none;
+}
+/* close */
+
+
+/* open */
+.width-paraf {
+    margin-left: 500px;
+    margin-top: 200px;
+    font-size: 22px;
+    font-weight: 700;
+    color: whitesmoke;
+}
+/* close */
+
+/* open */
+.background-contact-service {
+    background-image: url('../img/service/img-service-software-dev/background-service-sft-dev/background-contact-service.png');
+    background-size: auto;
+    background-repeat: no-repeat;
+    height: 660px;
+    background-position: center;
+    background-position-y: -50px;
+    background-color: white;
+}
+
+    .card-service-sft-dev {
+            width: 100px;
+            height: 100px;
+            background-color: white;
+            box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+        }
+
+        .title-gear-development {
+            font-weight: bold;
+            color: black;
+            font-size: 23px;
+        }
+
+         .title-packages {
+            font-weight: bold;
+            color: black;
+            font-size: 23px;
+        }
+
+
+        .bakcground-service-woman {
+            background-image: url('../img/banner/banner-service.png');
+            background-size: cover;
+            background-repeat: no-repeat;
+            height: 488px;
+        }
+
+        .title-sevice-development-top {
+            font-weight: bold;
+            color: black;
+            font-size: 23px;
+            background-image: url('../img/service/img-service-software-dev/background-service-sft-dev/rounded-circle-background.png');
+            background-repeat: no-repeat;
+            background-position-y: 15px;
+            background-position-x: 411px;
+            margin-top: 100px;
+        }
+
+        .title-span-development {
+            color: #FFB91B;
+        }
+
+        .title-card-Packages {
+            color: black;
+            font-size: 24px;
+            font-weight: 500;
+        }
+
+        .title-span-packages {
+            color: #FFB91B;
+        }
+
+        .btn-contact-bottom {
+            width: 388px;
+            height: 45px;
+            background: linear-gradient(96.66deg, #FFB91B 32.23%, rgba(255, 185, 27, 0) 171.63%);
+            color: white;
+        }
+
+        .btn-contact-bottom {
+            width: 388px;
+            height: 45px;
+            background: linear-gradient(96.66deg, #FFB91B 32.23%, rgba(255, 185, 27, 0) 171.63%);
+            color: white;
+        }
+
+        .card-contact {
+            margin-top: 50px;
+        }
+
+        .title-service-contact {
+            color: #6A6A6A;
+            font-weight: 600;
+        }
+
+        .text-paragraf-service-contact {
+            font-weight: 600;
+            color: #6F6F6F;
+        }
+
+        .card-contact-service {
+            width: 650px;
+            height: 278px;
+            margin-top: 195px;
+            box-shadow: 0px 2px 8px rgba(0, 0, 0, 0.1);
+            border-radius: 10px;
+            border: none;
+        }
+
+        .our-title {
+            color: black;
+            font-size: 23px;
+            font-weight: bold;
+        }
+
+        .title-page-active-packages {
+            font-size: 16px;
+        }
+
+        .card-active-user-landing {
+            width: 300px;
+            height: 205px;
+            border: none;
+            border-radius: 10px;
+            box-shadow: 0px 2px 7px rgba(0, 0, 0, 0.2);
+            background-repeat: no-repeat;
+            background-position-y: 140px;
+            background: rgba(255, 185, 27, 0.3);
+            color: #A1A1A1;
+        }
+
+        .container-customer {
+            padding: 40px;
+        }
+
+        .card-user-landing {
+            background-repeat: no-repeat;
+            background-position-y: 140px;
+            background-color: white;
+            width: 300px;
+            height: 205px;
+            border: none;
+            border-radius: 10px;
+            box-shadow: 0px 2px 7px rgba(0, 0, 0, 0.2);
+        }
+        
+ .card-sevice-background-asset {
+            background-image: url('../img/service/img-service-software-dev/background-service-sft-dev/img-service-development-background.png');
+            background-repeat: no-repeat;
+            height: 341px;
+            width: 355px;
+            background-position-x: -5px;
+            background-size: cover;
+            border: none;
+            border-radius: 20px;
+        }
+
+        .gray-background {
+            background-color: #F3F3F3;
+            border: none;
+        }
+
+        .service-development-asset {
+            height: 660px;
+            background-color: #F3F3F3;
+        }
+
+        .title-service-asset {
+            font-size: 24px;
+            margin-top: 50px;
+            color: white;
+        }
+
+        .description-service-asset {
+            font-size: 18px;
+            color: white;
+        }
+
+
+
+        /* responsive */
+        @media only screen and (max-width: 950px) {
+            .img-service-group {
+                margin-top: -0px;
+                margin-left: 0;
+                width: 100%;
+            }
+            .margin-bottom-sft-dev {
+                margin-bottom: 100px;
+            }
+            .background-service-group {
+                display: none;
+            }
+            
+            .btn-contact-bottom {
+               width: 100%;
+            }
+                    
+            .btn-service-contact {
+                margin-top: 0;
+                width: 100%;
+            }
+
+            .width-paraf {
+                display: none;
+            }
+            .card-service-sft-dev {
+                width: 100%;
+                height: 100%;
+            }
+
+            .card-contact-service {
+                width: 100%;
+                height: 100%;
+            }
+
+            .description-text-software-dev {
+                font-size: 10px;
+            }
+
+            .img-service-about-sft-dev {
+                 margin-top: 0px;
+                margin-left: 0px;
+                width: 100%;
+        }
+            .Rectangle-img-service-sft-dev {
+                display: none;
+         }
+
+         .card-active-user-landing {
+             width: 100%;
+         }
+
+         .card-user-landing {
+             width: 100%;
+         }
+
+         .card-sevice-background-asset {
+             width: 100%;
+         }
+
+         .background-contact-service  {
+             background-image: none;
+         }
+
+         .bakcground-service-woman {
+             margin-top: 500px;
+         }
+
+         .title-sevice-development-top {
+             background-image: none;
+         }
+
+         .title-service-asset {
+             font-size: 20px;
+         }
+
+         .description-service-asset {
+             font-size: 12px;
+         }
+
+         .title-card-Packages {
+             font-size: 14px;
+         }
+
+         .title-service-contact {
+             font-size: 18px;
+         }
+
+         .text-paragraf-service-contact {
+             font-size: 14px;
+         }
+
+    }
+
+@media (min-width:951px) and (max-width:1280px) {
+    .card-active-user-landing {
+        width: 100%;
+    }
+
+    .card-user-landing {
+        width: 100%;
+    }
+
+    .card-sevice-background-asset {
+        width: 100%;
+    }
+
+    .title-service-asset {
+        font-size: 20px;
+    }
+
+    .description-service-asset {
+        font-size: 14px;
+    }
+
+    .title-card-Packages {
+        font-size: 14px;
+    }
+
+}
+
+    
+
